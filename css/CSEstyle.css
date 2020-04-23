@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	border: none;
+	/*! background-color: #710c4e; */
+	margin: 0;
+	background-color: #f9f0f5;
+}
+header{
+	
+	background-color: #fff;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.headerfull{background-color: #fff;width: 1000px;/*! height: 100px; */margin-left: auto;margin-right: auto;}
+.logo{text-align: center;}
+.logo a{}
+.logo a img{width: 70px;/*! max-width: none; */}
+
+nav{text-align: center;padding: 2px solid #ae2487;border-top: 2px solid #a4157a;width: 1000px;margin: auto;}
+nav ul{margin: 0;padding: 0;}
+nav ul li{list-style-type: none;display: inline#;display: inline-block;}
+nav ul li a{text-decoration: auto;font-size: 16px;background-color: #fff;padding: 10px 30px;display: block;color: none;text-transform: uppercase;font-weight: bold;}
+nav ul li a:hover{	
+	background-color: #a4167a;
+	color: white;
+}
+
+section{}
+.cover{width: 1000px;margin-left: auto;margin-right: auto;border-top: 2px solid #ae2487;}
+.cover a{}
+.cover a img{
+	width:100%;
+}
+/* for home page start */
+.i2 nav ul{margin: 0;padding: 0;}
+.i2 nav ul li{list-style-type: none;float:none;display:block;}
+.i2 nav ul li a{text-decoration: auto;font-size: 16px;background-color: #fff;padding: 10px 30px;display: block;color: #551a8d;text-transform: uppercase;font-weight: bold;}
+.i2 nav ul li a:hover{	
+	background-color: #a4167a;
+	color: white;
+}
+/* for home page end */
+section{
+	background-color: white;
+	width: 1000px;
+	margin: auto;
+	height: 500px;		
+}
+
+/*registration er section part start*/
+.regi1{/*! width: ; *//*! text-align: end; */
+	width:1000px;
+	height:550px;
+	margin:auto;
+	padding-right: -17px;
+}
+.regi1 a img{
+	width:100%;
+	height:550px;
+}
+.regi1 h2{margin: auto;padding-left: 75%;font-size: 30px;padding-top: 42px;color: white;}
+form{padding-left: 75%;/*! text-align: end; */padding-top: 33px;}
+form label{
+	display:block;
+	font-size: 25px;
+	color: #f8f7f7;
+	font-weight: bolder;
+	/*! text-decoration: ltr; */
+}
+form input{padding: 8px 47px;border-radius: 17px;display: block;box-shadow: 2px 2px 7px #8e569d;}
+
+/*registration er section part end */
+/*
+.c1{
+	
+	width: 1000px;
+	margin: auto;
+	text-align: center;
+	border-bottom: 3px solid red;
+}
+.c1 a{
+	
+}
+.c1 a img{
+	
+	width: 70px;
+}
+
+.c2{
+	
+}
+.c2 nav{
+	
+	text-align: center;
+	padding: 20px;
+}
+.c2 nav ul{
+	
+	list-style-type: none;
+	display: inline;
+}
+.c2 nav ul li{
+	
+	text-align: center;
+	display: inline;
+	padding: 10px;
+}
+.c2 nav ul li a{
+	
+	text-decoration: none;
+}
+*/
+.b1{
+	width: 1000px;
+	margin: auto;
+	text-align: center;
+	
+}
+ol{
+	
+}
+ol li{
+	
+}
+.box{
+	width:1000px;
+	margin:auto;
+	
+}
+.ab1{
+	background-image:url("img/ab.jpg");
+	background-color:#ece6e6;;
+	width: 500px;
+	height:200px;
+	margin-top:250px;
+	float: right;
+	border-bottom: 3px solid blue;
+}
+.ab1 img{
+	
+	background-repeat: no-repeat;
+	width: 1000px;
+	/*! padding-block: ; */
+	margin-left: 125px;
+}
+.ab1 h1{
+	
+}
+.ab1 h1 p{
+	
+}
+.ab11{
+	font-size:20px;
+	font-weight:bold;
+	color:blue;
+}
+.c3{
+	color: #3f3449;
+font-size: 20px;
+padding-left: 30px;
+padding-right: 30px;
+	/*! padding-bottom: 0px; */
+}
+.lan{
+    color: #646a64;
+    font-style: italic;
+}
